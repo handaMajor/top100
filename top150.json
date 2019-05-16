@@ -1,905 +1,905 @@
 {
-	"companies": 
-[
- {
-   "title": "Эрдэнэт Үйлдвэр ТӨҮГ",
-   "rank": 1,
-   "sales": 2,
-   "tax": 1,
-   "social": 1,
-   "profit": 2,
-   "capital": 4
- },
- {
-   "title": "Эрдэнэс-Таван Толгой ХК",
-   "rank": 2,
-   "sales": 3,
-   "tax": 3,
-   "social": 37,
-   "profit": 1,
-   "capital": 1
- },
- {
-   "title": "Оюу Толгой ХХК",
-   "rank": 3,
-   "sales": 1,
-   "tax": 2,
-   "social": 3,
-   "profit": 100,
-   "capital": 3
- },
- {
-   "title": "ХААН Банк",
-   "rank": 4,
-   "sales": 5,
-   "tax": 9,
-   "social": 2,
-   "profit": 3,
-   "capital": 7
- },
- {
-   "title": "Энержи Ресурс ХХК",
-   "rank": 5,
-   "sales": 4,
-   "tax": 7,
-   "social": 8,
-   "profit": 17,
-   "capital": 14
- },
- {
-   "title": "Монголын Алт (МАК) ХХК",
-   "rank": 6,
-   "sales": 6,
-   "tax": 4,
-   "social": 18,
-   "profit": 10,
-   "capital": 6
- },
- {
-   "title": "НИК ХХК",
-   "rank": 7,
-   "sales": 7,
-   "tax": 6,
-   "social": 19,
-   "profit": 5,
-   "capital": 44
- },
- {
-   "title": "Худалдаа Хөгжлийн Банк",
-   "rank": 8,
-   "sales": 9,
-   "tax": 34,
-   "social": 11,
-   "profit": 4,
-   "capital": 8
- },
- {
-   "title": "Голомт Банк",
-   "rank": 9,
-   "sales": 11,
-   "tax": 30,
-   "social": 7,
-   "profit": 6,
-   "capital": 11
- },
- {
-   "title": "Улаанбаатар Төмөр Зам ХНН",
-   "rank": 10,
-   "sales": 8,
-   "tax": 48,
-   "social": 6,
-   "profit": 7,
-   "capital": 9
- },
- {
-   "title": "Ти Ти Жи Ви Си Өү ХХК",
-   "rank": 11,
-   "sales": 14,
-   "tax": 10,
-   "social": 70,
-   "profit": 47,
-   "capital": 20
- },
- {
-   "title": "Ай Си Ай Си ХХК",
-   "rank": 12,
-   "sales": 10,
-   "tax": 11,
-   "social": 99,
-   "profit": 20,
-   "capital": 81
- },
- {
-   "title": "Хасбанк",
-   "rank": 13,
-   "sales": 12,
-   "tax": 38,
-   "social": 13,
-   "profit": 31,
-   "capital": 22
- },
- {
-   "title": "Төрийн Банк",
-   "rank": 14,
-   "sales": 22,
-   "tax": 55,
-   "social": 4,
-   "profit": 8,
-   "capital": 25
- },
- {
-   "title": "АПУ ХК",
-   "rank": 15,
-   "sales": 31,
-   "tax": 5,
-   "social": 33,
-   "profit": 15,
-   "capital": 12
- },
- {
-   "title": "Мобиком Корпораци ХХК",
-   "rank": 16,
-   "sales": 28,
-   "tax": 18,
-   "social": 14,
-   "profit": 96,
-   "capital": 21
- },
- {
-   "title": "Вагнер Ази Тоног Төхөөрөмж ХХК",
-   "rank": 17,
-   "sales": 17,
-   "tax": 15,
-   "social": 45,
-   "profit": 9,
-   "capital": 77
- },
- {
-   "title": "Говь ХК",
-   "rank": 18,
-   "sales": 50,
-   "tax": 41,
-   "social": 5,
-   "profit": 42,
-   "capital": 30
- },
- {
-   "title": "Цахилгаан Дамжуулах Үндэсний Сүлжээ ТӨХК",
-   "rank": 19,
-   "sales": 23,
-   "tax": 20,
-   "social": 23,
-   "profit": 51,
-   "capital": 18
- },
- {
-   "title": "Цайрт Минерал ХХК",
-   "rank": 20,
-   "sales": 26,
-   "tax": 12,
-   "social": 68,
-   "profit": 57,
-   "capital": 37
- },
- {
-   "title": "Тийсс Монгол ХХК",
-   "rank": 21,
-   "sales": 13,
-   "tax": 25,
-   "social": 79,
-   "profit": 12,
-   "capital": 16
- },
- {
-   "title": "Номинтав Трейд ХХК",
-   "rank": 22,
-   "sales": 20,
-   "tax": 73,
-   "social": 9,
-   "profit": 25,
-   "capital": 75
- },
- {
-   "title": "Тавантолгой ХК",
-   "rank": 23,
-   "sales": 39,
-   "tax": 8,
-   "social": 85,
-   "profit": 18,
-   "capital": 39
- },
- {
-   "title": "Сод Монгол Групп ХХК",
-   "rank": 24,
-   "sales": 18,
-   "tax": 16,
-   "social": 44,
-   "profit": 19,
-   "capital": 35
- },
- {
-   "title": "МИАТ ТӨХК",
-   "rank": 25,
-   "sales": 16,
-   "tax": 49,
-   "social": 27,
-   "profit": 16,
-   "capital": 51
- },
- {
-   "title": "Дулааны IV Цахилгаан Станц ТӨХК",
-   "rank": 26,
-   "sales": 36,
-   "tax": 45,
-   "social": 10,
-   "profit": 56,
-   "capital": 13
- },
- {
-   "title": "Рэдпаф Монгол ХХК",
-   "rank": 27,
-   "sales": 35,
-   "tax": 23,
-   "social": 17,
-   "profit": 24,
-   "capital": 89
- },
- {
-   "title": "Монгол Улсын Хөгжлийн Банк",
-   "rank": 28,
-   "sales": 15,
-   "tax": 32,
-   "social": 88,
-   "profit": 27,
-   "capital": 5
- },
- {
-   "title": "Юнител ХХК",
-   "rank": 29,
-   "sales": 37,
-   "tax": 36,
-   "social": 22,
-   "profit": 11,
-   "capital": 26
- },
- {
-   "title": "М-Си-Эс Кока-Кола ХХК",
-   "rank": 30,
-   "sales": 30,
-   "tax": 31,
-   "social": 31,
-   "profit": 13,
-   "capital": 29
- },
- {
-   "title": "Улаанбаатар Цахилгаан Түгээх Сүлжээ ТӨХК",
-   "rank": 31,
-   "sales": 19,
-   "tax": 65,
-   "social": 28,
-   "profit": 99,
-   "capital": 27
- },
- {
-   "title": "Шунхлай ХХК",
-   "rank": 32,
-   "sales": 27,
-   "tax": 13,
-   "social": 98,
-   "profit": 70,
-   "capital": 94
- },
- {
-   "title": "Болдтөмөр Ерөө Гол ХХК",
-   "rank": 33,
-   "sales": 38,
-   "tax": 58,
-   "social": 25,
-   "profit": 32,
-   "capital": 10
- },
- {
-   "title": "Петростар ХХК",
-   "rank": 34,
-   "sales": 33,
-   "tax": 26,
-   "social": 60,
-   "profit": 88,
-   "capital": 54
- },
- {
-   "title": "Таван Богд ХХК",
-   "rank": 35,
-   "sales": 24,
-   "tax": 24,
-   "social": 91,
-   "profit": 41,
-   "capital": 65
- },
- {
-   "title": "Жэйкобс Инженеринг ХХК",
-   "rank": 36,
-   "sales": 43,
-   "tax": 22,
-   "social": 66,
-   "profit": 14,
-   "capital": 55
- },
- {
-   "title": "Эрдэнэс Монгол ХХК",
-   "rank": 37,
-   "sales": 80,
-   "tax": 63,
-   "social": 96,
-   "profit": 33,
-   "capital": 2
- },
- {
-   "title": "Магнай Трейд ХХК",
-   "rank": 38,
-   "sales": 32,
-   "tax": 19,
-   "social": 82,
-   "profit": 39,
-   "capital": 97
- },
- {
-   "title": "Монголросцветмет ТӨҮГ",
-   "rank": 39,
-   "sales": 64,
-   "tax": 59,
-   "social": 16,
-   "profit": 23,
-   "capital": 92
- },
- {
-   "title": "Мэдээлэл Холбооны Сүлжээ ХХК",
-   "rank": 40,
-   "sales": 97,
-   "tax": 75,
-   "social": 12,
-   "profit": 76,
-   "capital": 34
- },
- {
-   "title": "Багануур ХК",
-   "rank": 41,
-   "sales": 56,
-   "tax": 64,
-   "social": 21,
-   "profit": 66,
-   "capital": 76
- },
- {
-   "title": "АПУ Трейдинг ХХК",
-   "rank": 42,
-   "sales": 21,
-   "tax": 85,
-   "social": 56,
-   "profit": 82,
-   "capital": 78
- },
- {
-   "title": "Шинь Шинь ХХК",
-   "rank": 43,
-   "sales": 46,
-   "tax": 29,
-   "social": 53,
-   "profit": 21,
-   "capital": 98
- },
- {
-   "title": "Дарханы Төмөрлөгийн Үйлдвэр ХК",
-   "rank": 44,
-   "sales": 49,
-   "tax": 89,
-   "social": 20,
-   "profit": 26,
-   "capital": 96
- },
- {
-   "title": "Өсөх Зоос ХХК",
-   "rank": 45,
-   "sales": 34,
-   "tax": 37,
-   "social": 97,
-   "profit": 37,
-   "capital": 17
- },
- {
-   "title": "Капитрон Банк",
-   "rank": 46,
-   "sales": 25,
-   "tax": 86,
-   "social": 65,
-   "profit": 30,
-   "capital": 42
- },
- {
-   "title": "Дулааны III Цахилгаан Станц ТӨХК",
-   "rank": 47,
-   "sales": 62,
-   "tax": 67,
-   "social": 24,
-   "profit": 29,
-   "capital": 23
- },
- {
-   "title": "Саппорт Сервисес Монголиа ХХК",
-   "rank": 48,
-   "sales": 86,
-   "tax": 78,
-   "social": 15,
-   "profit": 87,
-   "capital": 80
- },
- {
-   "title": "Спирт Бал Бурам ХХК",
-   "rank": 49,
-   "sales": 70,
-   "tax": 14,
-   "social": 73,
-   "profit": 34,
-   "capital": 52
- },
- {
-   "title": "Номин Трейдинг ХХК",
-   "rank": 50,
-   "sales": 54,
-   "tax": 54,
-   "social": 37,
-   "profit": 84,
-   "capital": 58
- },
- {
-   "title": "Алтайн Хүдэр ХХК",
-   "rank": 51,
-   "sales": 42,
-   "tax": 94,
-   "social": 52,
-   "profit": 65,
-   "capital": 15
- },
- {
-   "title": "Жи Си Ар Монголиа ХХК",
-   "rank": 52,
-   "sales": 63,
-   "tax": 47,
-   "social": 42,
-   "profit": 40,
-   "capital": 90
- },
- {
-   "title": "Шунхлай Трейдинг ХХК",
-   "rank": 53,
-   "sales": 29,
-   "tax": 99,
-   "social": 67,
-   "profit": 36,
-   "capital": 59
- },
- {
-   "title": "М-Ойл Групп ХХК",
-   "rank": 54,
-   "sales": 51,
-   "tax": 33,
-   "social": 81,
-   "profit": 35,
-   "capital": 62
- },
- {
-   "title": "Эрдэнэт Булганы Цахилгаан Түгээх Сүлжээ ТӨХК",
-   "rank": 55,
-   "sales": 41,
-   "tax": 91,
-   "social": 54,
-   "profit": 55,
-   "capital": 31
- },
- {
-   "title": "Волтам ХХК",
-   "rank": 56,
-   "sales": 69,
-   "tax": 17,
-   "social": 91,
-   "profit": 94,
-   "capital": 63
- },
- {
-   "title": "Тэс Петролиум ХХК",
-   "rank": 57,
-   "sales": 57,
-   "tax": 42,
-   "social": 61,
-   "profit": 61,
-   "capital": 86
- },
- {
-   "title": "Си Өү Эй Эл ХХК",
-   "rank": 58,
-   "sales": 44,
-   "tax": 39,
-   "social": 90,
-   "profit": 49,
-   "capital": 40
- },
- {
-   "title": "Трансвест Монголиа ХХК",
-   "rank": 59,
-   "sales": 48,
-   "tax": 35,
-   "social": 89,
-   "profit": 95,
-   "capital": 45
- },
- {
-   "title": "М-Си-Эс Интернэйшнл ХХК",
-   "rank": 60,
-   "sales": 58,
-   "tax": 62,
-   "social": 58,
-   "profit": 60,
-   "capital": 36
- },
- {
-   "title": "Эко Алтан Заамар ХХК",
-   "rank": 61,
-   "sales": 78,
-   "tax": 76,
-   "social": 26,
-   "profit": 59,
-   "capital": 95
- },
- {
-   "title": "Скай Хайпермаркет ХХК",
-   "rank": 62,
-   "sales": 60,
-   "tax": 68,
-   "social": 48,
-   "profit": 48,
-   "capital": 49
- },
- {
-   "title": "СББ Трейд ХХК",
-   "rank": 63,
-   "sales": 40,
-   "tax": 66,
-   "social": 84,
-   "profit": 85,
-   "capital": 60
- },
- {
-   "title": "Алтангадас Трейд ХХК",
-   "rank": 64,
-   "sales": 75,
-   "tax": 21,
-   "social": 95,
-   "profit": 74,
-   "capital": 66
- },
- {
-   "title": "Скайтел ХХК",
-   "rank": 65,
-   "sales": 87,
-   "tax": 77,
-   "social": 30,
-   "profit": 75,
-   "capital": 38
- },
- {
-   "title": "Юнивишн ХХК",
-   "rank": 66,
-   "sales": 68,
-   "tax": 57,
-   "social": 62,
-   "profit": 22,
-   "capital": 47
- },
- {
-   "title": "Улаанбаатар Менежмент ХХК",
-   "rank": 67,
-   "sales": 45,
-   "tax": 40,
-   "social": 99,
-   "profit": 52,
-   "capital": 56
- },
- {
-   "title": "Жем Интернэшнл ХХК",
-   "rank": 68,
-   "sales": 77,
-   "tax": 28,
-   "social": 80,
-   "profit": 78,
-   "capital": 67
- },
- {
-   "title": "Улаанбаатар Хотын Банк",
-   "rank": 69,
-   "sales": 53,
-   "tax": 80,
-   "social": 64,
-   "profit": 38,
-   "capital": 28
- },
- {
-   "title": "Монос Фарм Трейд ХХК",
-   "rank": 70,
-   "sales": 55,
-   "tax": 56,
-   "social": 75,
-   "profit": 58,
-   "capital": 72
- },
- {
-   "title": "МоЭнКо ХХК",
-   "rank": 71,
-   "sales": 52,
-   "tax": 51,
-   "social": 57,
-   "profit": 44,
-   "capital": 100
- },
- {
-   "title": "Талх Чихэр ХК",
-   "rank": 72,
-   "sales": 90,
-   "tax": 87,
-   "social": 32,
-   "profit": 43,
-   "capital": 48
- },
- {
-   "title": "Чинхуа-МАК Нарийн Сухайт ХХК",
-   "rank": 73,
-   "sales": 88,
-   "tax": 46,
-   "social": 76,
-   "profit": 98,
-   "capital": 33
- },
- {
-   "title": "Миний Дэлгүүр ХХК",
-   "rank": 74,
-   "sales": 79,
-   "tax": 98,
-   "social": 40,
-   "profit": 67,
-   "capital": 93
- },
- {
-   "title": "Монголтамхисо ХХК",
-   "rank": 75,
-   "sales": 81,
-   "tax": 27,
-   "social": 94,
-   "profit": 46,
-   "capital": 61
- },
- {
-   "title": "Эко Констракшн ХХК",
-   "rank": 76,
-   "sales": 89,
-   "tax": 100,
-   "social": 36,
-   "profit": 81,
-   "capital": 32
- },
- {
-   "title": "Петрочайна Дачин Тамсаг ХХК",
-   "rank": 77,
-   "sales": 95,
-   "tax": 61,
-   "social": 46,
-   "profit": 90,
-   "capital": 87
- },
- {
-   "title": "Номин холдинг ХХК",
-   "rank": 78,
-   "sales": 100,
-   "tax": 93,
-   "social": 29,
-   "profit": 80,
-   "capital": 74
- },
- {
-   "title": "Цемент-Шохой ХК",
-   "rank": 79,
-   "sales": 94,
-   "tax": 92,
-   "social": 34,
-   "profit": 91,
-   "capital": 24
- },
- {
-   "title": "Алтан Жолоо Трейд ХХК",
-   "rank": 80,
-   "sales": 76,
-   "tax": 97,
-   "social": 47,
-   "profit": 93,
-   "capital": 79
- },
- {
-   "title": "М-Си-Эс Азиа Пасифик Брюэри ХХК",
-   "rank": 81,
-   "sales": 83,
-   "tax": 44,
-   "social": 77,
-   "profit": 54,
-   "capital": 43
- },
- {
-   "title": "ЖиМобайл ХХК",
-   "rank": 82,
-   "sales": 96,
-   "tax": 82,
-   "social": 39,
-   "profit": 64,
-   "capital": 91
- },
- {
-   "title": "МСМ Групп ХХК",
-   "rank": 83,
-   "sales": 66,
-   "tax": 53,
-   "social": 83,
-   "profit": 79,
-   "capital": 53
- },
- {
-   "title": "Тотал Дистрибюшн ХХК",
-   "rank": 84,
-   "sales": 47,
-   "tax": 90,
-   "social": 78,
-   "profit": 97,
-   "capital": 69
- },
- {
-   "title": "Бласт ХХК",
-   "rank": 85,
-   "sales": 73,
-   "tax": 60,
-   "social": 73,
-   "profit": 68,
-   "capital": 50
- },
- {
-   "title": "М-Си-Эс Проперти ХХК",
-   "rank": 86,
-   "sales": 61,
-   "tax": 70,
-   "social": 69,
-   "profit": 77,
-   "capital": 68
- },
- {
-   "title": "Дорнод Бүсийн Эрчим Хүчний Систем ТӨХК",
-   "rank": 87,
-   "sales": 92,
-   "tax": 81,
-   "social": 43,
-   "profit": 83,
-   "capital": 41
- },
- {
-   "title": "Монсуль ХХК",
-   "rank": 88,
-   "sales": 65,
-   "tax": 43,
-   "social": 93,
-   "profit": 89,
-   "capital": 82
- },
- {
-   "title": "Монос Улаанбаатар ХХК",
-   "rank": 89,
-   "sales": 84,
-   "tax": 96,
-   "social": 48,
-   "profit": 71,
-   "capital": 83
- },
- {
-   "title": "Баян Айраг Эксплорэйшн ХХК",
-   "rank": 90,
-   "sales": 59,
-   "tax": 71,
-   "social": 63,
-   "profit": 45,
-   "capital": 99
- },
- {
-   "title": "Таван Богд Фүүдс ХХК",
-   "rank": 91,
-   "sales": 93,
-   "tax": 72,
-   "social": 51,
-   "profit": 69,
-   "capital": 57
- },
- {
-   "title": "Гоёо ХХК",
-   "rank": 92,
-   "sales": 99,
-   "tax": 84,
-   "social": 35,
-   "profit": 28,
-   "capital": 88
- },
- {
-   "title": "НБИК ХХК",
-   "rank": 93,
-   "sales": 91,
-   "tax": 79,
-   "social": 48,
-   "profit": 62,
-   "capital": 85
- },
- {
-   "title": "Эпирок Монголиа ХХК",
-   "rank": 94,
-   "sales": 71,
-   "tax": 52,
-   "social": 87,
-   "profit": 92,
-   "capital": 70
- },
- {
-   "title": "Монполимет ХХК",
-   "rank": 95,
-   "sales": 72,
-   "tax": 83,
-   "social": 71,
-   "profit": 63,
-   "capital": 19
- },
- {
-   "title": "Сүү ХК",
-   "rank": 96,
-   "sales": 82,
-   "tax": 74,
-   "social": 59,
-   "profit": 73,
-   "capital": 64
- },
- {
-   "title": "Жүр Үр ХХК",
-   "rank": 97,
-   "sales": 98,
-   "tax": 88,
-   "social": 41,
-   "profit": 72,
-   "capital": 71
- },
- {
-   "title": "Алтан Тариа ХХК",
-   "rank": 98,
-   "sales": 85,
-   "tax": 95,
-   "social": 55,
-   "profit": 50,
-   "capital": 46
- },
- {
-   "title": "Премиум Индастриал Энд Инженеринг ХХК",
-   "rank": 99,
-   "sales": 67,
-   "tax": 69,
-   "social": 72,
-   "profit": 86,
-   "capital": 73
- },
- {
-   "title": "Ойн Бирж ХХК",
-   "rank": 100,
-   "sales": 74,
-   "tax": 50,
-   "social": 86,
-   "profit": 53,
-   "capital": 84
- }
-]
+   "companies": [
+          
+         {
+            "title": "Эрдэнэт Үйлдвэр ТӨҮГ",
+            "rank": 1,
+            "sales": 2,
+            "tax": 1,
+            "social": 1,
+            "profit": 2,
+            "capital": 4
+          },
+          {
+            "title": "Эрдэнэс-Таван Толгой ХК",
+            "rank": 2,
+            "sales": 3,
+            "tax": 3,
+            "social": 37,
+            "profit": 1,
+            "capital": 1
+          },
+          {
+            "title": "Оюу Толгой ХХК",
+            "rank": 3,
+            "sales": 1,
+            "tax": 2,
+            "social": 3,
+            "profit": 100,
+            "capital": 3
+          },
+          {
+            "title": "ХААН Банк",
+            "rank": 4,
+            "sales": 5,
+            "tax": 9,
+            "social": 2,
+            "profit": 3,
+            "capital": 7
+          },
+          {
+            "title": "Энержи Ресурс ХХК",
+            "rank": 5,
+            "sales": 4,
+            "tax": 7,
+            "social": 8,
+            "profit": 17,
+            "capital": 14
+          },
+          {
+            "title": "Монголын Алт (МАК) ХХК",
+            "rank": 6,
+            "sales": 6,
+            "tax": 4,
+            "social": 18,
+            "profit": 10,
+            "capital": 6
+          },
+          {
+            "title": "НИК ХХК",
+            "rank": 7,
+            "sales": 7,
+            "tax": 6,
+            "social": 19,
+            "profit": 5,
+            "capital": 44
+          },
+          {
+            "title": "Худалдаа Хөгжлийн Банк",
+            "rank": 8,
+            "sales": 9,
+            "tax": 34,
+            "social": 11,
+            "profit": 4,
+            "capital": 8
+          },
+          {
+            "title": "Голомт Банк",
+            "rank": 9,
+            "sales": 11,
+            "tax": 30,
+            "social": 7,
+            "profit": 6,
+            "capital": 11
+          },
+          {
+            "title": "Улаанбаатар Төмөр Зам ХНН",
+            "rank": 10,
+            "sales": 8,
+            "tax": 48,
+            "social": 6,
+            "profit": 7,
+            "capital": 9
+          },
+          {
+            "title": "Ти Ти Жи Ви Си Өү ХХК",
+            "rank": 11,
+            "sales": 14,
+            "tax": 10,
+            "social": 70,
+            "profit": 47,
+            "capital": 20
+          },
+          {
+            "title": "Ай Си Ай Си ХХК",
+            "rank": 12,
+            "sales": 10,
+            "tax": 11,
+            "social": 99,
+            "profit": 20,
+            "capital": 81
+          },
+          {
+            "title": "Хасбанк",
+            "rank": 13,
+            "sales": 12,
+            "tax": 38,
+            "social": 13,
+            "profit": 31,
+            "capital": 22
+          },
+          {
+            "title": "Төрийн Банк",
+            "rank": 14,
+            "sales": 22,
+            "tax": 55,
+            "social": 4,
+            "profit": 8,
+            "capital": 25
+          },
+          {
+            "title": "АПУ ХК",
+            "rank": 15,
+            "sales": 31,
+            "tax": 5,
+            "social": 33,
+            "profit": 15,
+            "capital": 12
+          },
+          {
+            "title": "Мобиком Корпораци ХХК",
+            "rank": 16,
+            "sales": 28,
+            "tax": 18,
+            "social": 14,
+            "profit": 96,
+            "capital": 21
+          },
+          {
+            "title": "Вагнер Ази Тоног Төхөөрөмж ХХК",
+            "rank": 17,
+            "sales": 17,
+            "tax": 15,
+            "social": 45,
+            "profit": 9,
+            "capital": 77
+          },
+          {
+            "title": "Говь ХК",
+            "rank": 18,
+            "sales": 50,
+            "tax": 41,
+            "social": 5,
+            "profit": 42,
+            "capital": 30
+          },
+          {
+            "title": "Цахилгаан Дамжуулах Үндэсний Сүлжээ ТӨХК",
+            "rank": 19,
+            "sales": 23,
+            "tax": 20,
+            "social": 23,
+            "profit": 51,
+            "capital": 18
+          },
+          {
+            "title": "Цайрт Минерал ХХК",
+            "rank": 20,
+            "sales": 26,
+            "tax": 12,
+            "social": 68,
+            "profit": 57,
+            "capital": 37
+          },
+          {
+            "title": "Тийсс Монгол ХХК",
+            "rank": 21,
+            "sales": 13,
+            "tax": 25,
+            "social": 79,
+            "profit": 12,
+            "capital": 16
+          },
+          {
+            "title": "Номинтав Трейд ХХК",
+            "rank": 22,
+            "sales": 20,
+            "tax": 73,
+            "social": 9,
+            "profit": 25,
+            "capital": 75
+          },
+          {
+            "title": "Тавантолгой ХК",
+            "rank": 23,
+            "sales": 39,
+            "tax": 8,
+            "social": 85,
+            "profit": 18,
+            "capital": 39
+          },
+          {
+            "title": "Сод Монгол Групп ХХК",
+            "rank": 24,
+            "sales": 18,
+            "tax": 16,
+            "social": 44,
+            "profit": 19,
+            "capital": 35
+          },
+          {
+            "title": "МИАТ ТӨХК",
+            "rank": 25,
+            "sales": 16,
+            "tax": 49,
+            "social": 27,
+            "profit": 16,
+            "capital": 51
+          },
+          {
+            "title": "Дулааны IV Цахилгаан Станц ТӨХК",
+            "rank": 26,
+            "sales": 36,
+            "tax": 45,
+            "social": 10,
+            "profit": 56,
+            "capital": 13
+          },
+          {
+            "title": "Рэдпаф Монгол ХХК",
+            "rank": 27,
+            "sales": 35,
+            "tax": 23,
+            "social": 17,
+            "profit": 24,
+            "capital": 89
+          },
+          {
+            "title": "Монгол Улсын Хөгжлийн Банк",
+            "rank": 28,
+            "sales": 15,
+            "tax": 32,
+            "social": 88,
+            "profit": 27,
+            "capital": 5
+          },
+          {
+            "title": "Юнител ХХК",
+            "rank": 29,
+            "sales": 37,
+            "tax": 36,
+            "social": 22,
+            "profit": 11,
+            "capital": 26
+          },
+          {
+            "title": "М-Си-Эс Кока-Кола ХХК",
+            "rank": 30,
+            "sales": 30,
+            "tax": 31,
+            "social": 31,
+            "profit": 13,
+            "capital": 29
+          },
+          {
+            "title": "Улаанбаатар Цахилгаан Түгээх Сүлжээ ТӨХК",
+            "rank": 31,
+            "sales": 19,
+            "tax": 65,
+            "social": 28,
+            "profit": 99,
+            "capital": 27
+          },
+          {
+            "title": "Шунхлай ХХК",
+            "rank": 32,
+            "sales": 27,
+            "tax": 13,
+            "social": 98,
+            "profit": 70,
+            "capital": 94
+          },
+          {
+            "title": "Болдтөмөр Ерөө Гол ХХК",
+            "rank": 33,
+            "sales": 38,
+            "tax": 58,
+            "social": 25,
+            "profit": 32,
+            "capital": 10
+          },
+          {
+            "title": "Петростар ХХК",
+            "rank": 34,
+            "sales": 33,
+            "tax": 26,
+            "social": 60,
+            "profit": 88,
+            "capital": 54
+          },
+          {
+            "title": "Таван Богд ХХК",
+            "rank": 35,
+            "sales": 24,
+            "tax": 24,
+            "social": 91,
+            "profit": 41,
+            "capital": 65
+          },
+          {
+            "title": "Жэйкобс Инженеринг ХХК",
+            "rank": 36,
+            "sales": 43,
+            "tax": 22,
+            "social": 66,
+            "profit": 14,
+            "capital": 55
+          },
+          {
+            "title": "Эрдэнэс Монгол ХХК",
+            "rank": 37,
+            "sales": 80,
+            "tax": 63,
+            "social": 96,
+            "profit": 33,
+            "capital": 2
+          },
+          {
+            "title": "Магнай Трейд ХХК",
+            "rank": 38,
+            "sales": 32,
+            "tax": 19,
+            "social": 82,
+            "profit": 39,
+            "capital": 97
+          },
+          {
+            "title": "Монголросцветмет ТӨҮГ",
+            "rank": 39,
+            "sales": 64,
+            "tax": 59,
+            "social": 16,
+            "profit": 23,
+            "capital": 92
+          },
+          {
+            "title": "Мэдээлэл Холбооны Сүлжээ ХХК",
+            "rank": 40,
+            "sales": 97,
+            "tax": 75,
+            "social": 12,
+            "profit": 76,
+            "capital": 34
+          },
+          {
+            "title": "Багануур ХК",
+            "rank": 41,
+            "sales": 56,
+            "tax": 64,
+            "social": 21,
+            "profit": 66,
+            "capital": 76
+          },
+          {
+            "title": "АПУ Трейдинг ХХК",
+            "rank": 42,
+            "sales": 21,
+            "tax": 85,
+            "social": 56,
+            "profit": 82,
+            "capital": 78
+          },
+          {
+            "title": "Шинь Шинь ХХК",
+            "rank": 43,
+            "sales": 46,
+            "tax": 29,
+            "social": 53,
+            "profit": 21,
+            "capital": 98
+          },
+          {
+            "title": "Дарханы Төмөрлөгийн Үйлдвэр ХК",
+            "rank": 44,
+            "sales": 49,
+            "tax": 89,
+            "social": 20,
+            "profit": 26,
+            "capital": 96
+          },
+          {
+            "title": "Өсөх Зоос ХХК",
+            "rank": 45,
+            "sales": 34,
+            "tax": 37,
+            "social": 97,
+            "profit": 37,
+            "capital": 17
+          },
+          {
+            "title": "Капитрон Банк",
+            "rank": 46,
+            "sales": 25,
+            "tax": 86,
+            "social": 65,
+            "profit": 30,
+            "capital": 42
+          },
+          {
+            "title": "Дулааны III Цахилгаан Станц ТӨХК",
+            "rank": 47,
+            "sales": 62,
+            "tax": 67,
+            "social": 24,
+            "profit": 29,
+            "capital": 23
+          },
+          {
+            "title": "Саппорт Сервисес Монголиа ХХК",
+            "rank": 48,
+            "sales": 86,
+            "tax": 78,
+            "social": 15,
+            "profit": 87,
+            "capital": 80
+          },
+          {
+            "title": "Спирт Бал Бурам ХХК",
+            "rank": 49,
+            "sales": 70,
+            "tax": 14,
+            "social": 73,
+            "profit": 34,
+            "capital": 52
+          },
+          {
+            "title": "Номин Трейдинг ХХК",
+            "rank": 50,
+            "sales": 54,
+            "tax": 54,
+            "social": 37,
+            "profit": 84,
+            "capital": 58
+          },
+          {
+            "title": "Алтайн Хүдэр ХХК",
+            "rank": 51,
+            "sales": 42,
+            "tax": 94,
+            "social": 52,
+            "profit": 65,
+            "capital": 15
+          },
+          {
+            "title": "Жи Си Ар Монголиа ХХК",
+            "rank": 52,
+            "sales": 63,
+            "tax": 47,
+            "social": 42,
+            "profit": 40,
+            "capital": 90
+          },
+          {
+            "title": "Шунхлай Трейдинг ХХК",
+            "rank": 53,
+            "sales": 29,
+            "tax": 99,
+            "social": 67,
+            "profit": 36,
+            "capital": 59
+          },
+          {
+            "title": "М-Ойл Групп ХХК",
+            "rank": 54,
+            "sales": 51,
+            "tax": 33,
+            "social": 81,
+            "profit": 35,
+            "capital": 62
+          },
+          {
+            "title": "Эрдэнэт Булганы Цахилгаан Түгээх Сүлжээ ТӨХК",
+            "rank": 55,
+            "sales": 41,
+            "tax": 91,
+            "social": 54,
+            "profit": 55,
+            "capital": 31
+          },
+          {
+            "title": "Волтам ХХК",
+            "rank": 56,
+            "sales": 69,
+            "tax": 17,
+            "social": 91,
+            "profit": 94,
+            "capital": 63
+          },
+          {
+            "title": "Тэс Петролиум ХХК",
+            "rank": 57,
+            "sales": 57,
+            "tax": 42,
+            "social": 61,
+            "profit": 61,
+            "capital": 86
+          },
+          {
+            "title": "Си Өү Эй Эл ХХК",
+            "rank": 58,
+            "sales": 44,
+            "tax": 39,
+            "social": 90,
+            "profit": 49,
+            "capital": 40
+          },
+          {
+            "title": "Трансвест Монголиа ХХК",
+            "rank": 59,
+            "sales": 48,
+            "tax": 35,
+            "social": 89,
+            "profit": 95,
+            "capital": 45
+          },
+          {
+            "title": "М-Си-Эс Интернэйшнл ХХК",
+            "rank": 60,
+            "sales": 58,
+            "tax": 62,
+            "social": 58,
+            "profit": 60,
+            "capital": 36
+          },
+          {
+            "title": "Эко Алтан Заамар ХХК",
+            "rank": 61,
+            "sales": 78,
+            "tax": 76,
+            "social": 26,
+            "profit": 59,
+            "capital": 95
+          },
+          {
+            "title": "Скай Хайпермаркет ХХК",
+            "rank": 62,
+            "sales": 60,
+            "tax": 68,
+            "social": 48,
+            "profit": 48,
+            "capital": 49
+          },
+          {
+            "title": "СББ Трейд ХХК",
+            "rank": 63,
+            "sales": 40,
+            "tax": 66,
+            "social": 84,
+            "profit": 85,
+            "capital": 60
+          },
+          {
+            "title": "Алтангадас Трейд ХХК",
+            "rank": 64,
+            "sales": 75,
+            "tax": 21,
+            "social": 95,
+            "profit": 74,
+            "capital": 66
+          },
+          {
+            "title": "Скайтел ХХК",
+            "rank": 65,
+            "sales": 87,
+            "tax": 77,
+            "social": 30,
+            "profit": 75,
+            "capital": 38
+          },
+          {
+            "title": "Юнивишн ХХК",
+            "rank": 66,
+            "sales": 68,
+            "tax": 57,
+            "social": 62,
+            "profit": 22,
+            "capital": 47
+          },
+          {
+            "title": "Улаанбаатар Менежмент ХХК",
+            "rank": 67,
+            "sales": 45,
+            "tax": 40,
+            "social": 99,
+            "profit": 52,
+            "capital": 56
+          },
+          {
+            "title": "Жем Интернэшнл ХХК",
+            "rank": 68,
+            "sales": 77,
+            "tax": 28,
+            "social": 80,
+            "profit": 78,
+            "capital": 67
+          },
+          {
+            "title": "Улаанбаатар Хотын Банк",
+            "rank": 69,
+            "sales": 53,
+            "tax": 80,
+            "social": 64,
+            "profit": 38,
+            "capital": 28
+          },
+          {
+            "title": "Монос Фарм Трейд ХХК",
+            "rank": 70,
+            "sales": 55,
+            "tax": 56,
+            "social": 75,
+            "profit": 58,
+            "capital": 72
+          },
+          {
+            "title": "МоЭнКо ХХК",
+            "rank": 71,
+            "sales": 52,
+            "tax": 51,
+            "social": 57,
+            "profit": 44,
+            "capital": 100
+          },
+          {
+            "title": "Талх Чихэр ХК",
+            "rank": 72,
+            "sales": 90,
+            "tax": 87,
+            "social": 32,
+            "profit": 43,
+            "capital": 48
+          },
+          {
+            "title": "Чинхуа-МАК Нарийн Сухайт ХХК",
+            "rank": 73,
+            "sales": 88,
+            "tax": 46,
+            "social": 76,
+            "profit": 98,
+            "capital": 33
+          },
+          {
+            "title": "Миний Дэлгүүр ХХК",
+            "rank": 74,
+            "sales": 79,
+            "tax": 98,
+            "social": 40,
+            "profit": 67,
+            "capital": 93
+          },
+          {
+            "title": "Монголтамхисо ХХК",
+            "rank": 75,
+            "sales": 81,
+            "tax": 27,
+            "social": 94,
+            "profit": 46,
+            "capital": 61
+          },
+          {
+            "title": "Эко Констракшн ХХК",
+            "rank": 76,
+            "sales": 89,
+            "tax": 100,
+            "social": 36,
+            "profit": 81,
+            "capital": 32
+          },
+          {
+            "title": "Петрочайна Дачин Тамсаг ХХК",
+            "rank": 77,
+            "sales": 95,
+            "tax": 61,
+            "social": 46,
+            "profit": 90,
+            "capital": 87
+          },
+          {
+            "title": "Номин холдинг ХХК",
+            "rank": 78,
+            "sales": 100,
+            "tax": 93,
+            "social": 29,
+            "profit": 80,
+            "capital": 74
+          },
+          {
+            "title": "Цемент-Шохой ХК",
+            "rank": 79,
+            "sales": 94,
+            "tax": 92,
+            "social": 34,
+            "profit": 91,
+            "capital": 24
+          },
+          {
+            "title": "Алтан Жолоо Трейд ХХК",
+            "rank": 80,
+            "sales": 76,
+            "tax": 97,
+            "social": 47,
+            "profit": 93,
+            "capital": 79
+          },
+          {
+            "title": "М-Си-Эс Азиа Пасифик Брюэри ХХК",
+            "rank": 81,
+            "sales": 83,
+            "tax": 44,
+            "social": 77,
+            "profit": 54,
+            "capital": 43
+          },
+          {
+            "title": "ЖиМобайл ХХК",
+            "rank": 82,
+            "sales": 96,
+            "tax": 82,
+            "social": 39,
+            "profit": 64,
+            "capital": 91
+          },
+          {
+            "title": "МСМ Групп ХХК",
+            "rank": 83,
+            "sales": 66,
+            "tax": 53,
+            "social": 83,
+            "profit": 79,
+            "capital": 53
+          },
+          {
+            "title": "Тотал Дистрибюшн ХХК",
+            "rank": 84,
+            "sales": 47,
+            "tax": 90,
+            "social": 78,
+            "profit": 97,
+            "capital": 69
+          },
+          {
+            "title": "Бласт ХХК",
+            "rank": 85,
+            "sales": 73,
+            "tax": 60,
+            "social": 73,
+            "profit": 68,
+            "capital": 50
+          },
+          {
+            "title": "М-Си-Эс Проперти ХХК",
+            "rank": 86,
+            "sales": 61,
+            "tax": 70,
+            "social": 69,
+            "profit": 77,
+            "capital": 68
+          },
+          {
+            "title": "Дорнод Бүсийн Эрчим Хүчний Систем ТӨХК",
+            "rank": 87,
+            "sales": 92,
+            "tax": 81,
+            "social": 43,
+            "profit": 83,
+            "capital": 41
+          },
+          {
+            "title": "Монсуль ХХК",
+            "rank": 88,
+            "sales": 65,
+            "tax": 43,
+            "social": 93,
+            "profit": 89,
+            "capital": 82
+          },
+          {
+            "title": "Монос Улаанбаатар ХХК",
+            "rank": 89,
+            "sales": 84,
+            "tax": 96,
+            "social": 48,
+            "profit": 71,
+            "capital": 83
+          },
+          {
+            "title": "Баян Айраг Эксплорэйшн ХХК",
+            "rank": 90,
+            "sales": 59,
+            "tax": 71,
+            "social": 63,
+            "profit": 45,
+            "capital": 99
+          },
+          {
+            "title": "Таван Богд Фүүдс ХХК",
+            "rank": 91,
+            "sales": 93,
+            "tax": 72,
+            "social": 51,
+            "profit": 69,
+            "capital": 57
+          },
+          {
+            "title": "Гоёо ХХК",
+            "rank": 92,
+            "sales": 99,
+            "tax": 84,
+            "social": 35,
+            "profit": 28,
+            "capital": 88
+          },
+          {
+            "title": "НБИК ХХК",
+            "rank": 93,
+            "sales": 91,
+            "tax": 79,
+            "social": 48,
+            "profit": 62,
+            "capital": 85
+          },
+          {
+            "title": "Эпирок Монголиа ХХК",
+            "rank": 94,
+            "sales": 71,
+            "tax": 52,
+            "social": 87,
+            "profit": 92,
+            "capital": 70
+          },
+          {
+            "title": "Монполимет ХХК",
+            "rank": 95,
+            "sales": 72,
+            "tax": 83,
+            "social": 71,
+            "profit": 63,
+            "capital": 19
+          },
+          {
+            "title": "Сүү ХК",
+            "rank": 96,
+            "sales": 82,
+            "tax": 74,
+            "social": 59,
+            "profit": 73,
+            "capital": 64
+          },
+          {
+            "title": "Жүр Үр ХХК",
+            "rank": 97,
+            "sales": 98,
+            "tax": 88,
+            "social": 41,
+            "profit": 72,
+            "capital": 71
+          },
+          {
+            "title": "Алтан Тариа ХХК",
+            "rank": 98,
+            "sales": 85,
+            "tax": 95,
+            "social": 55,
+            "profit": 50,
+            "capital": 46
+          },
+          {
+            "title": "Премиум Индастриал Энд Инженеринг ХХК",
+            "rank": 99,
+            "sales": 67,
+            "tax": 69,
+            "social": 72,
+            "profit": 86,
+            "capital": 73
+          },
+          {
+            "title": "Ойн Бирж ХХК",
+            "rank": 100,
+            "sales": 74,
+            "tax": 50,
+            "social": 86,
+            "profit": 53,
+            "capital": 84
+          }
+         ]
 }
